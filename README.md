@@ -9,7 +9,7 @@ Bathing Suite Website
 ## Project description
 Bathing Suite Website that let customer view the business's bathing suit designs and collection
 ## Versions Log
- This section needs to be updated as you develop your project
+first version of the project
 
 **Versions:**
 *1.0.0*
