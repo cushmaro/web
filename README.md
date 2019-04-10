@@ -1,7 +1,7 @@
 # WEB Project 2019 Semester B - BGU
 **Author: Nimrod Cushmaro**
 **Repository:
-[http://github.com/githubuser/web](http://github.com/githubuser/web)*
+[http://github.com/cushmaro/web](http://github.com/cushmaro/web)*
 *
 **Version: 1.0**
 ## Project subject
