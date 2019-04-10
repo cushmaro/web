@@ -14,3 +14,4 @@ Bathing Suite Website that let customer view the business's bathing suit designs
 **Versions:**
 *1.0.0*
 - Initial project structure
+    – Added index.html
